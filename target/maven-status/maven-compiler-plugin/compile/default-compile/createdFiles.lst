@@ -1,0 +1,13 @@
+com/br/desenvolvimento/entity/ErrorResponse.class
+com/br/desenvolvimento/repository/AddressRepository.class
+com/br/desenvolvimento/service/AddressService.class
+com/br/desenvolvimento/entity/ObjectError.class
+com/br/desenvolvimento/entity/Address$AddressBuilder.class
+com/br/desenvolvimento/service/impl/ConsumerServiceImpl.class
+com/br/desenvolvimento/service/ConsumerService.class
+com/br/desenvolvimento/entity/Address.class
+com/br/desenvolvimento/SwaggerConfig.class
+com/br/desenvolvimento/service/impl/AddressServiceImpl.class
+com/br/desenvolvimento/DesafioStoomApplication.class
+com/br/desenvolvimento/error/RestExceptionHandler.class
+com/br/desenvolvimento/controller/AddressController.class
